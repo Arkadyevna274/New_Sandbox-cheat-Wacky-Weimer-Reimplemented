@@ -64,8 +64,8 @@ The end date has been enabled.
 
 @interwest
 
-- @incrwest: Increase West Relations (Not Working)
-- @decrwest: Decrease West Relations (Not Working)
+- @incrwest: Increase West Relations
+- @decrwest: Decrease West Relations 
 - @returnsandbox: Return to the Sandbox
 
 @incrwest
@@ -104,12 +104,12 @@ go-to: incrwest
 
 @decrwest
 
-- @hugewestdecr: -400 West Relations (Not Working)
-- @bigwestdecr: -100 West Relations (Not Working)
-- @mediumwestdecr: -20 West Relations (Not Working)
-- @medsmallwestdecr: -10 West Relations (Not Working)
-- @smallwestdecr: -5 West Relations (Not Working)
-- @tinywestdecr: -1 West Relations (Not working)
+- @hugewestdecr: -400 West Relations 
+- @bigwestdecr: -100 West Relations
+- @mediumwestdecr: -20 West Relations
+- @medsmallwestdecr: -10 West Relations 
+- @smallwestdecr: -5 West Relations
+- @tinywestdecr: -1 West Relations 
 - @returnsandobx: Return to Sandbox
 
 @hugewestdecr
@@ -152,6 +152,24 @@ go-to: decrwest
 - @tinyeastincr: +1 East Relations (Not Working)
 - @returnsandbox: Reutrn to Sandbox
 
+@hugeeastincr
+wip
+
+@bigeastincr
+wip
+
+@mediumeastincr
+wip
+
+@medsmalleastincr
+wip
+
+@smalleastincr
+wip
+
+@tinyeastincr
+wip
+
 @decreast
 
 - @hugeeastdecr: -400 East Relations (Not Working)
@@ -162,11 +180,85 @@ go-to: decrwest
 - @tinyeastdecr: -1 East Relations (Not Working)
 - @returnsandbox: Return to Sandbox
 
+@hugeeastdecr
+wip
+
+@bigeastdecr
+wip
+
+@mediumeastdecr
+wip
+
+@medsmalleastdecr
+wip
+
+@smalleastdecr
+wip
+
+@tinyeastdecr
+wip
+
 @intersov
 
 - @incrsov: Increase Soviet Relations (Not Working)
 - @decrsov: Decrease Soviet Relations (Not Working)
 - @returnsandbox: Return to the Sandbox
+
+@incrsov
+
+- @hugesovincr: +400 Soviet Relations (Not Working)
+- @bigsovincr: +100 Soviet Relations (Not Working)
+- @mediumsovincr: +20 Soviet Relations (Not Working)
+- @medsmallsovincr: +10 Soviet Relations (Not Working)
+- @smallsovincr: +5 Soviet Relations (Not Working)
+- @tinysovincr: +1 Soviet Relations (Not Working)
+- @returnsandbox: Return to Sandbox
+
+@hugesovincr
+wip
+
+@bigsovincr
+wip
+
+@mediumsovincr
+wip
+
+@medsmallsovincr
+wip
+
+@smallsovincr
+wip
+
+@tinysovincr
+wip
+
+@decrsov
+
+- @hugesovdecr: -400 Soviet Relations (Not Working)
+- @bigsovdecr: -100 Soviet Relations (Not Working)
+- @mediumsovdecr: -20 Soviet Relations (Not Working)
+- @medsmallsovdecr: - 10 Soviet Relations (Not Working)
+- @smallsovdecr: -5 Soviet Relations (Not Working)
+- @tinysovdecr: -1 Soviet Relations (Not Working)
+- @returnsandbox: Return to Sandbox
+
+@hugesovdecr
+wip
+
+@bigsovdecr
+wip
+
+@mediumsovdecr
+wip
+
+@medsmallsovdecr
+wip
+
+@smallsovdecr
+wip
+
+@tinysovdecr
+wip
 
 @interrepar
 
@@ -175,12 +267,30 @@ go-to: decrwest
 - @finishrepar: Finish Reparations (Not Working)
 - @returnsandbox: Return to sandbox
 
+@incrrepar
+wip
+
+@decrrepar
+wip
+
+@finishrepar
+wip
+
 @intereu
 
 - @increu: Increase progress to forming the EU (Not Working)
 - @decreu: Decrease progress to forming the EU (Not Working)
 - @formeu: Form the EU (Not Working)
 - @returnsandbox: Return to the Sandobx
+
+@increu
+wip
+
+@decreu
+wip
+
+@formeu
+wip
 
 @interconcor
 
@@ -192,11 +302,35 @@ go-to: decrwest
 - @formprucon: Form the Prussian Concordat (Not Working)
 - @returnsandbox: Return to Sandobx
 
+@incrcon
+wip
+
+@decrcon
+wip
+
+@formcon
+wip
+
+@incrprucon
+wip
+
+@decrprucon
+wip
+
+@formprucon
+wip
+
 @interaust
 
 - @incraust: Increase SDAPO Support (Not working)
 - @decraust: Decrease SDAPO Support (Not working)
 - @returnsandbox: Return to Sandbox
+
+@incraust
+wip
+
+@decraust
+wip
 
 @nat_rep_support
 
